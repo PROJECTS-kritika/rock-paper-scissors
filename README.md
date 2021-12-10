@@ -3,3 +3,4 @@
  1. Rock wins against scissors. 
  2. Scissors win against the paper.
  3. Paper wins against rock.
+https://replit.com/@KritikaKumari2/LightcyanHorizontalFunnel#main.py
